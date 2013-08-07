@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(226, 0, 52) !important;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#app-header {
+    background-color: rgb(226, 0, 52);
+    color: #fff;
+    font-size: 22px;
+    font-weight: 200;
+    padding: 8px 15px;
+    text-shadow: 0 1px 0 #596F8F;
+}
